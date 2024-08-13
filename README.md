@@ -1,4 +1,4 @@
 # AgroTech
 
 Crop Recommendation System & Yield Prediction System <br>
-Flask code for the [Yield Predictor](https://github.com/SwekeR-463/Yield-Predictor)
+Flask code for the [Yield Predictor](https://github.com/SwekeR-463/Yield-Predictor) & [Crop Recommender](https://github.com/SwekeR-463/Crop-Recommender)
